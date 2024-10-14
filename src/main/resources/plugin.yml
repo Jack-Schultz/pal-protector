@@ -1,0 +1,4 @@
+name: PalProtector
+version: '${project.version}'
+main: me.meltedbutter.palprotector.PalProtector
+api-version: '1.20'
